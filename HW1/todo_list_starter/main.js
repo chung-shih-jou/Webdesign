@@ -106,12 +106,6 @@ var mark=function(target){
     todoCount.innerHTML = general.todoItems.filter(ele => !ele.isComplete).length+" left";
 }
 
-var del =function(){
-    
-
-
-
-}
 
 var display = function(target){
     todoCount.innerHTML = todoCount.innerHTML = general.todoItems.filter(ele => ele.isComplete<2).length+" left";
