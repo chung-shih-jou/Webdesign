@@ -10,11 +10,22 @@ A simple of chung-shih-jou blog and resume.
 
 **How it works?**
 * Here is the introduction on Home page and portfolio on Presentation page.
-* The Carousel slide can see each works.
 * The contact information is below the page with link.
+ 
+ ![](https://i.imgur.com/6q7V3cj.gif)
+* The Carousel slide can see each works.
 
-![](https://i.imgur.com/BVon8v8.gif)
+![](https://i.imgur.com/oaHZEFE.gif)
+
 
 * The left tab button will introduce WebDesign, Computer Vision and Research in detail.
- ![](https://i.imgur.com/JbYF3Aj.gif)
+
+![](https://i.imgur.com/edc8hR0.gif)
+ 
+![](https://i.imgur.com/rJgUFri.gif)
+ 
+![](https://i.imgur.com/zF9Rrb3.gif)
+ 
+
+
 
