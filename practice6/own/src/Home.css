@@ -1,0 +1,49 @@
+.title{
+      color:pink;
+      font-size:45px;
+      }
+.University{
+      color:#006400;
+      font-size:20px;
+      float: left;
+      font-weight: bold;
+      width: 850px;
+      }  
+      
+.content{
+      color:#228B22;
+      font-size:18px;
+      float: left;
+      width: 850px;
+      font-weight: bold;
+      }  
+      
+.date{
+      color:#006400;
+      font-size:20px;
+      float: right;
+      font-weight: bold;
+      width: 250px;
+      } 
+  li {
+      color:gray;
+      font-size:16px;
+  }
+  
+  h{
+      color:red
+  }
+  
+  
+  .skill_title{
+      color:#006400;
+      font-size:20px;
+      font-weight: bold;
+      width: 850px;
+  }
+  .skill_content{
+   color:#228B22;
+      font-size:18px;
+      width: 850px;
+      font-weight: bold;
+  }

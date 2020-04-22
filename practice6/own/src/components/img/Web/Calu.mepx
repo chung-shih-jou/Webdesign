@@ -1,0 +1,300 @@
+FO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | read MFT record 126512 - l 
+  INFO  | Mft read mode is FAST 
+  INFO  | Try to apply Sector Fixups 
+  INFO  | End of apply Sector Fixups 
+  INFO  | Constructing the object - l 
+  INFO  | Object was successfully constructed - l 
+  INFO  | _CMFTRecord::LocateRecordAttributes() - $ATTRIBUTE_LIST found! 
+  INFO  | Passing the attribute assert - l 
+  INFO  | Attribute assert was successfully passed - l 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 920994 
+  INFO  | Mft read mode is FAST 
+  INFO  | Try to apply Sector Fixups 
+  INFO  | End of apply Sector Fixups 
+  INFO  | ------MFT RECORD DUMP------ 
+  INFO  | MFT record name --- wow64_microsoft-windows-pcw-minwin_31bf3856ad364e35_10.0.18362.1_none_6b90abc7db12002c 
+  INFO  | MFT record parent dir --- 126512 
+  INFO  | MFT record file size --- 0 
+  INFO  | MFT record first cluster --- 0 
+  INFO  | MFT record is directory --- 1 
+  INFO  | ------END OF MFT RECORD DUMP------ 
+  INFO  | file name: wow64_microsoft-windows-pcw-minwin_31bf3856ad364e35_10.0.18362.1_none_6b90abc7db12002c 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | read MFT record 126512 - l 
+  INFO  | Mft read mode is FAST 
+  INFO  | Try to apply Sector Fixups 
+  INFO  | End of apply Sector Fixups 
+  INFO  | Constructing the object - l 
+  INFO  | Object was successfully constructed - l 
+  INFO  | _CMFTRecord::LocateRecordAttributes() - $ATTRIBUTE_LIST found! 
+  INFO  | Passing the attribute assert - l 
+  INFO  | Attribute assert was successfully passed - l 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 920995 
+  INFO  | Mft read mode is FAST 
+  INFO  | Try to apply Sector Fixups 
+  INFO  | End of apply Sector Fixups 
+  INFO  | ------MFT RECORD DUMP------ 
+  INFO  | MFT record name --- wow64_microsoft-windows-pdc-dll_31bf3856ad364e35_10.0.18362.1_none_788eaa021a0004d9 
+  INFO  | MFT record parent dir --- 126512 
+  INFO  | MFT record file size --- 0 
+  INFO  | MFT record first cluster --- 0 
+  INFO  | MFT record is directory --- 1 
+  INFO  | ------END OF MFT RECORD DUMP------ 
+  INFO  | file name: wow64_microsoft-windows-pdc-dll_31bf3856ad364e35_10.0.18362.1_none_788eaa021a0004d9 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | read MFT record 126512 - l 
+  INFO  | Mft read mode is FAST 
+  INFO  | Try to apply Sector Fixups 
+  INFO  | End of apply Sector Fixups 
+  INFO  | Constructing the object - l 
+  INFO  | Object was successfully constructed - l 
+  INFO  | _CMFTRecord::LocateRecordAttributes() - $ATTRIBUTE_LIST found! 
+  INFO  | Passing the attribute assert - l 
+  INFO  | Attribute assert was successfully passed - l 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 920996 
+  INFO  | Mft read mode is FAST 
+  INFO  | Try to apply Sector Fixups 
+  INFO  | End of apply Sector Fixups 
+  INFO  | ------MFT RECORD DUMP------ 
+  INFO  | MFT record name --- wow64_microsoft-windows-peerdist-common_31bf3856ad364e35_10.0.18362.1_none_3ab183988dc8a11b 
+  INFO  | MFT record parent dir --- 126512 
+  INFO  | MFT record file size --- 0 
+  INFO  | MFT record first cluster --- 0 
+  INFO  | MFT record is directory --- 1 
+  INFO  | ------END OF MFT RECORD DUMP------ 
+  INFO  | file name: wow64_microsoft-windows-peerdist-common_31bf3856ad364e35_10.0.18362.1_none_3ab183988dc8a11b 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | read MFT record 126512 - l 
+  INFO  | Mft read mode is FAST 
+  INFO  | Try to apply Sector Fixups 
+  INFO  | End of apply Sector Fixups 
+  INFO  | Constructing the object - l 
+  INFO  | Object was successfully constructed - l 
+  INFO  | _CMFTRecord::LocateRecordAttributes() - $ATTRIBUTE_LIST found! 
+  INFO  | Passing the attribute assert - l 
+  INFO  | Attribute assert was successfully passed - l 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 920997 
+  INFO  | Mft read mode is FAST 
+  INFO  | Try to apply Sector Fixups 
+  INFO  | End of apply Sector Fixups 
+  INFO  | ------MFT RECORD DUMP------ 
+  INFO  | MFT record name --- wow64_microsoft-windows-peerdist.resources_31bf3856ad364e35_10.0.18362.1_zh-tw_50f98325ca50e29e 
+  INFO  | MFT record parent dir --- 126512 
+  INFO  | MFT record file size --- 0 
+  INFO  | MFT record first cluster --- 0 
+  INFO  | MFT record is directory --- 1 
+  INFO  | ------END OF MFT RECORD DUMP------ 
+  INFO  | file name: wow64_microsoft-windows-peerdist.resources_31bf3856ad364e35_10.0.18362.1_zh-tw_50f98325ca50e29e 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | read MFT record 126512 - l 
+  INFO  | Mft read mode is FAST 
+  INFO  | Try to apply Sector Fixups 
+  INFO  | End of apply Sector Fixups 
+  INFO  | Constructing the object - l 
+  INFO  | Object was successfully constructed - l 
+  INFO  | _CMFTRecord::LocateRecordAttributes() - $ATTRIBUTE_LIST found! 
+  INFO  | Passing the attribute assert - l 
+  INFO  | Attribute assert was successfully passed - l 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 920998 
+  INFO  | Mft read mode is FAST 
+  INFO  | Try to apply Sector Fixups 
+  INFO  | End of apply Sector Fixups 
+  INFO  | ------MFT RECORD DUMP------ 
+  INFO  | MFT record name --- wow64_microsoft-windows-peerdist_31bf3856ad364e35_10.0.18362.1_none_f9d6aeaa9bb5dc95 
+  INFO  | MFT record parent dir --- 126512 
+  INFO  | MFT record file size --- 0 
+  INFO  | MFT record first cluster --- 0 
+  INFO  | MFT record is directory --- 1 
+  INFO  | ------END OF MFT RECORD DUMP------ 
+  INFO  | file name: wow64_microsoft-windows-peerdist_31bf3856ad364e35_10.0.18362.1_none_f9d6aeaa9bb5dc95 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | read MFT record 126512 - l 
+  INFO  | Mft read mode is FAST 
+  INFO  | Try to apply Sector Fixups 
+  INFO  | End of apply Sector Fixups 
+  INFO  | Constructing the object - l 
+  INFO  | Object was successfully constructed - l 
+  INFO  | _CMFTRecord::LocateRecordAttributes() - $ATTRIBUTE_LIST found! 
+  INFO  | Passing the attribute assert - l 
+  INFO  | Attribute assert was successfully passed - l 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 920999 
+  INFO  | Mft read mode is FAST 
+  INFO  | Try to apply Sector Fixups 
+  INFO  | End of apply Sector Fixups 
+  INFO  | ------MFT RECORD DUMP------ 
+  INFO  | MFT record name --- wow64_microsoft-windows-peertopeerbase_31bf3856ad364e35_10.0.18362.1_none_488a555ad7a01ab1 
+  INFO  | MFT record parent dir --- 24011 
+  INFO  | MFT record file size --- 0 
+  INFO  | MFT record first cluster --- 0 
+  INFO  | MFT record is directory --- 1 
+  INFO  | ------END OF MFT RECORD DUMP------ 
+  INFO  | file name: wow64_microsoft-windows-peertopeerbase_31bf3856ad364e35_10.0.18362.1_none_488a555ad7a01ab1 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 921000 
+  INFO  | Mft read mode is FAST 
+  INFO  | Try to apply Sector Fixups 
+  INFO  | End of apply Sector Fixups 
+  INFO  | ------MFT RECORD DUMP------ 
+  INFO  | MFT record name --- wow64_microsoft-windows-peertopeerdrt_31bf3856ad364e35_10.0.18362.1_none_360e88ce4c943a5e 
+  INFO  | MFT record parent dir --- 126512 
+  INFO  | MFT record file size --- 0 
+  INFO  | MFT record first cluster --- 0 
+  INFO  | MFT record is directory --- 1 
+  INFO  | ------END OF MFT RECORD DUMP------ 
+  INFO  | file name: wow64_microsoft-windows-peertopeerdrt_31bf3856ad364e35_10.0.18362.1_none_360e88ce4c943a5e 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | read MFT record 126512 - l 
+  INFO  | Mft read mode is FAST 
+  INFO  | Try to apply Sector Fixups 
+  INFO  | End of apply Sector Fixups 
+  INFO  | Constructing the object - l 
+  INFO  | Object was successfully constructed - l 
+  INFO  | _CMFTRecord::LocateRecordAttributes() - $ATTRIBUTE_LIST found! 
+  INFO  | Passing the attribute assert - l 
+  INFO  | Attribute assert was successfully passed - l 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 921001 
+  INFO  | Mft read mode is FAST 
+  INFO  | Try to apply Sector Fixups 
+  INFO  | End of apply Sector Fixups 
+  INFO  | ------MFT RECORD DUMP------ 
+  INFO  | MFT record name --- wow64_microsoft-windows-peertopeergraphing_31bf3856ad364e35_10.0.18362.1_none_3f74f5229b57bae4 
+  INFO  | MFT record parent dir --- 24011 
+  INFO  | MFT record file size --- 0 
+  INFO  | MFT record first cluster --- 0 
+  INFO  | MFT record is directory --- 1 
+  INFO  | ------END OF MFT RECORD DUMP------ 
+  INFO  | file name: wow64_microsoft-windows-peertopeergraphing_31bf3856ad364e35_10.0.18362.1_none_3f74f5229b57bae4 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 921002 
+  INFO  | Mft read mode is FAST 
+  INFO  | Try to apply Sector Fixups 
+  INFO  | End of apply Sector Fixups 
+  INFO  | ------MFT RECORD DUMP------ 
+  INFO  | MFT record name --- wow64_microsoft-windows-peertopeeridmanager_31bf3856ad364e35_10.0.18362.1_none_b7f634ca67bded1a 
+  INFO  | MFT record parent dir --- 126512 
+  INFO  | MFT record file size --- 0 
+  INFO  | MFT record first cluster --- 0 
+  INFO  | MFT record is directory --- 1 
+  INFO  | ------END OF MFT RECORD DUMP------ 
+  INFO  | file name: wow64_microsoft-windows-peertopeeridmanager_31bf3856ad364e35_10.0.18362.1_none_b7f634ca67bded1a 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | read MFT record 126512 - l 
+  INFO  | Mft read mode is FAST 
+  INFO  | Try to apply Sector Fixups 
+  INFO  | End of apply Sector Fixups 
+  INFO  | Constructing the object - l 
+  INFO  | Object was successfully constructed - l 
+  INFO  | _CMFTRecord::LocateRecordAttributes() - $ATTRIBUTE_LIST found! 
+  INFO  | Passing the attribute assert - l 
+  INFO  | Attribute assert was successfully passed - l 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 921003 
+  INFO  | Mft read mode is FAST 
+  INFO  | Try to apply Sector Fixups 
+  INFO  | End of apply Sector Fixups 
+  INFO  | ------MFT RECORD DUMP------ 
+  INFO  | MFT record name --- wow64_microsoft-windows-peertopeerpnrp_31bf3856ad364e35_10.0.18362.1_none_4e313000d40dc5e4 
+  INFO  | MFT record parent dir --- 126512 
+  INFO  | MFT record file size --- 0 
+  INFO  | MFT record first cluster --- 0 
+  INFO  | MFT record is directory --- 1 
+  INFO  | ------END OF MFT RECORD DUMP------ 
+  INFO  | file name: wow64_microsoft-windows-peertopeerpnrp_31bf3856ad364e35_10.0.18362.1_none_4e313000d40dc5e4 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | read MFT record 126512 - l 
+  INFO  | Mft read mode is FAST 
+  INFO  | Try to apply Sector Fixups 
+  INFO  | End of apply Sector Fixups 
+  INFO  | Constructing the object - l 
+  INFO  | Object was successfully constructed - l 
+  INFO  | _CMFTRecord::LocateRecordAttributes() - $ATTRIBUTE_LIST found! 
+  INFO  | Passing the attribute assert - l 
+  INFO  | Attribute assert was successfully passed - l 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 921004 
+  INFO  | Mft read mode is FAST 
+  INFO  | Try to apply Sector Fixups 
+  INFO  | End of apply Sector Fixups 
+  INFO  | ------MFT RECORD DUMP------ 
+  INFO  | MFT record name --- wow64_microsoft-windows-perceptionapi-stub_31bf3856ad364e35_10.0.18362.1_none_57fa467d0640067d 
+  INFO  | MFT record parent dir --- 126512 
+  INFO  | MFT record file size --- 0 
+  INFO  | MFT record first cluster --- 0 
+  INFO  | MFT record is directory --- 1 
+  INFO  | ------END OF MFT RECORD DUMP------ 
+  INFO  | file name: wow64_microsoft-windows-perceptionapi-stub_31bf3856ad364e35_10.0.18362.1_none_57fa467d0640067d 
+  INFO  | Constructing node entry for MFT entry 
+  INFO  | Node entry for MFT entry was successfully constructed 
+  INFO  | Start of getting file parametres(size, time, date) 
+  INFO  | End of getting file parametres(size, time, date) 
+  INFO  | !!!---Entering the parsing loop---!!! 
+  INFO  | read MFT record 126512 - l 
+  INFO  | Mft read mode is FAST 
+  INFO  | Try to apply Sector Fixups 
+  INFO  | End of apply Sector Fixups 
+  INFO  | Constructing the object - l 
+  INFO  | Object was successfully constructed - l 
+  INFO  | _CMFTRecord::LocateRecordAttributes() - $ATTRIBUTE_LIST found! 
+  INFO  | Passing the attribute assert - l 
+  INFO  | Attribute assert was successfully passed - l 
+  INFO  | !!!---End the parsing loop---!!! 
+  INFO  | --> read MFT record 921005 
+  INFO  | Mft read mode is FAST 
+  INFO  | Try to apply Sector Fixups 
+  INFO  | End of apply Sector Fixups 
+  INFO  | ------MFT RECORD DUMP------ 
+  INFO  | MFT record name --- wow64_micr
