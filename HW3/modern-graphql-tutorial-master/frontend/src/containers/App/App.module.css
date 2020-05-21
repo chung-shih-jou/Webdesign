@@ -1,0 +1,42 @@
+.title {
+  text-align: center;
+  margin: 50px;
+  color: rgb(37, 37, 37);
+}
+
+.form {
+  padding: 50px;
+}
+
+.p {
+  color: rgb(37, 37, 37);
+  font-size: 30px;
+  font-family: Helvetic;
+  font-weight: bolder;
+}
+
+.small_title{
+  font-family: 'Lucida Sans';
+}
+
+.subtitle{
+  font-size:25px;
+  font-weight: border;
+  font-family: 'Lucida Sans';
+}
+
+.subbody{
+  font-size:20px;
+  font-family: Helvetic;
+
+}
+
+.btn {
+  height: 25px;
+  float:right;
+  transform: scale(1.5);
+}
+
+.btn_delete{
+  float:right;
+}

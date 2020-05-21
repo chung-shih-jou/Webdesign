@@ -1,0 +1,61 @@
+.addcommnet{
+    width: 120px;
+    font-size: 12px;
+    float: left;
+}
+
+.body{
+    width: 338px;
+    font-size: 12px;
+    float: center;
+}
+
+.enter{
+    width: 60px;
+    font-size: 12px;
+    float: right;
+    position: relative;
+    top: -50px;
+}
+.but{
+    font-size: 10px;
+    background-color: white;
+    color: black;
+    border:none;
+    float: right;
+    
+}
+
+
+.but:hover{
+    font-size: 10px;
+    background-color: white;
+    color: rgb(184, 182, 182);
+}
+
+.enter:hover{
+    width: 60px;
+    font-size: 12px;
+    float: right;
+    position: relative;
+    top: -50px;
+    background-color: white;
+    color: rgb(184, 182, 182);
+}
+.p{
+    font-size: 12px;
+    
+
+}
+
+.b{
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(206, 205, 205) white white white;
+}
+
+.btn_delete {
+    /* height: 25px; */
+    float:right;
+    /* transform: scale(1.5); */
+  }
